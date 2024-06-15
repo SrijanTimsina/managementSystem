@@ -1,0 +1,14 @@
+.links a {
+	padding: 6px 8px;
+	padding-right: 50px;
+	text-decoration: none;
+	font-size: 16px;
+	color: #333;
+	border-radius: 4px;
+	border-radius: 4px;
+}
+
+.links a.active {
+	color: white;
+	background: rgba(4, 180, 252, 1);
+}
